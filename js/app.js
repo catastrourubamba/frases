@@ -31,25 +31,25 @@ const frases = [
   },
   {
     frase:
-      "Observaciones muy largas puede que no guarde la ficha, asegurarse por favor si lo guarda.⚠️",
+      "Observaciones muy largas puede que no guarde la ficha.⚠️",
     autor: "Tips",
     imagen: "./images/ok.svg",
   },
   {
     frase:
-      "Fotos con tamaño mayor a 2 mb no sube, asegúrese de bajarle calidad con whatsapp o otra app.⚠️",
+      "Fotos mayor a 2 mb no sube, asegúrese de bajarle calidad con whatsapp o otra app.⚠️",
     autor: "Tips",
     imagen: "./images/ok.svg",
   },
   {
     frase:
-    "Trate de no confundirse en el código de referencia catastral, porque será una ficha que se tendrá que eliminar.⚠️",
+    "No confundirse en el código de referencia catastral, será una ficha eliminada.⚠️",
     autor: "Tips General",
     imagen: "./images/ok.svg",
   },
   {
     frase:
-    "No se olvide que el CUC  en una ficha individual es el mismo de la base gráfica.⚠️",
+    "No se olvide el CUC  en una ficha individual es el mismo de la base gráfica.⚠️",
     autor: "Tips",
     imagen: "./images/ok.svg",
   },
