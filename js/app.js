@@ -9,6 +9,13 @@ const frases = [
   },
     {
     frase:
+      "En La Ficha Cotittular Sólo Permite Un Máximo De 10 Titulares, El Resto Llenar En Observaciones.⚠️",
+    autor: "Tips",
+    imagen: "./images/ok.svg",
+  },
+  
+    {
+    frase:
       "En obras complementarias siempre llenar en dimensiones.⚠️",
       autor: "Tips <b>Nuevo!!!</b>",
       imagen: "./images/ok.svg",
