@@ -3,8 +3,8 @@
 const frases = [
   {
     frase:
-      "No olvides hacer una consulta previa al sistema de fichas una vez guardado.⚠️",
-    autor: "Tips General",
+      "No poner puntos en casilleros rojos.⚠️",
+    autor: "Tips",
     imagen: "./images/ok.svg",
   },
   {
