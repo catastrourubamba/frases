@@ -7,6 +7,12 @@ const frases = [
     autor: "Tips",
     imagen: "./images/ok.svg",
   },
+    {
+    frase:
+      "En obras complementarias siempre llenar en dimensiones.⚠️",
+      autor: "Tips <b>Nuevo!!!</b>",
+      imagen: "./images/ok.svg",
+  },
   {
     frase:
       "Caracteres como las Ñ, S/N, tildes,  un tips es copiarlo a un bloc de notas y pegarlo.⚠️",
