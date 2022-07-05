@@ -9,6 +9,12 @@ const frases = [
   },
     {
     frase:
+      "En puertas poner  en el casillero 13 poner cero al moneto de modificar fichas.⚠️",
+    autor: "Tips <b>Nuevo!!!</b>",
+    imagen: "./images/ok.svg",
+  },
+    {
+    frase:
       "Tener mucho cuidado en subir fichas cotitulares las fotos.📷, sera una ficha 🚫",
     autor: "Tips <b>Nuevo!!!</b>",
     imagen: "./images/ok.svg",
