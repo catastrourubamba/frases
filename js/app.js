@@ -90,6 +90,13 @@ const frases = [
     autor: "Tips",
     imagen: "./images/ok.svg",
   },
+    {
+    frase:
+    "Errores De Foto Se Encuentra En El Menu Informacion Grafica.☝",
+    autor: "Tips <b> Nuevo!!!</b> 📷",
+    imagen: "./images/ok.svg",
+  },
+  
 ];
   
 
