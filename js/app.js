@@ -32,6 +32,12 @@ const frases = [
       autor: "Tips",
       imagen: "./images/ok.svg",
   },
+      {
+    frase:
+      "En Construcciones por favor revisar 2 veces, en la segunda la guarda.⚠️",
+    autor: "Tips <b>Nuevo!!!</b>",
+    imagen: "./images/ok.svg",
+  },
   {
     frase:
       "El número de DNI es un campo obligatorio si no tiene por favor llenar con el número de la ficha.⚠️",
