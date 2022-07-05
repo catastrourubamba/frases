@@ -9,7 +9,7 @@ const frases = [
   },
     {
     frase:
-      "En puertas poner  en el casillero 13 poner cero al moneto de modificar fichas.⚠️",
+      "En puertas poner  en el casillero 13 poner cero al momento de modificar fichas.⚠️",
     autor: "Tips <b>Nuevo!!!</b>",
     imagen: "./images/ok.svg",
   },
