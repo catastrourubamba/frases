@@ -13,6 +13,12 @@ const frases = [
     autor: "Tips",
     imagen: "./images/ok.svg",
   },
+      {
+    frase:
+      "En ficha de bienes comunes en recp_bbcc llenar todos lo campos, en edificio poner 11, 12, 12.⚠️",
+    autor: "Tips <b>Nuevo!!!</b> &#9989",
+    imagen: "./images/ok.svg",
+  },
   
     {
     frase:
