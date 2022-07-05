@@ -9,6 +9,12 @@ const frases = [
   },
     {
     frase:
+      "Tener mucho cuidado en subir fichas cotitulares las fotos.📷, sera una ficha 🚫",
+    autor: "Tips <b>Nuevo!!!</b>",
+    imagen: "./images/ok.svg",
+  },
+    {
+    frase:
       "En La Ficha Cotittular Sólo Permite Un Máximo De 10 Titulares, El Resto Llenar En Observaciones.⚠️",
     autor: "Tips",
     imagen: "./images/ok.svg",
