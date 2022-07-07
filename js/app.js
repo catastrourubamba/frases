@@ -7,16 +7,23 @@ const frases = [
     autor: "Tips",
     imagen: "./images/ok.svg",
   },
+  
     {
     frase:
-      "Poner el codigo de ficha en las fichas de bienes comunes y cotitular con lapicero borrable.⚠️",
+      "Cuando hay mas de 10 puertas y no deje de ingresar, avisar a los administradores de la base de datos.⚠️",
+    autor: "Tips <b>Nuevo!!!&#128077</b>",
+    imagen: "./images/ok.svg",
+  },
+    {
+    frase:
+      "Poner el codigo de ficha en las fichas de bienes comunes y cotitular.⚠️",
     autor: "Tips",
     imagen: "./images/ok.svg",
   },
     {
     frase:
-      "En puertas poner  en el casillero 13 poner cero al momento de modificar fichas.⚠️",
-    autor: "Tips <b>Nuevo!!!</b>",
+      "En fichas cotitulares no deja modificar areas construidas, avisar al administrador de la base de datos.⚠️",
+    autor: "Tips <b>Nuevo!!!&#128077</b>",
     imagen: "./images/ok.svg",
   },
     {
@@ -68,19 +75,14 @@ const frases = [
     imagen: "./images/ok.svg",
   },
   {
-    frase: "En las puertas el numero maximo es 10 puertas, el resto llenar en observaciones.⚠️",
+    frase:
+      "Observaciones muy largas mayores a 500 caracteres no guarda la ficha.⚠️",
     autor: "Tips",
     imagen: "./images/ok.svg",
   },
   {
     frase:
-      "Observaciones muy largas puede que no guarde la ficha.⚠️",
-    autor: "Tips",
-    imagen: "./images/ok.svg",
-  },
-  {
-    frase:
-      "Fotos mayor a 2 mb no sube, asegúrese de bajarle calidad con whatsapp o otra app.⚠️",
+      "Fotos mayor a 2 mb no sube, asegúrese de bajarle calidad con la app iloveimg en la web.⚠️",
     autor: "Tips",
     imagen: "./images/ok.svg",
   },
@@ -104,7 +106,7 @@ const frases = [
   },
     {
     frase:
-    "Errores De Foto Se Encuentra En El Menu Informacion Grafica.☝",
+    "Errores, Visor GIS, Producitvidad,... Se Encuentra En El Menu Informacion Grafica.☝",
     autor: "Tips <b> Nuevo!!!</b> 📷",
     imagen: "./images/ok.svg",
   },
