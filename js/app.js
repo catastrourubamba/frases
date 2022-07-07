@@ -107,7 +107,7 @@ const frases = [
     {
     frase:
     "Errores, Visor GIS, Producitvidad,... Se Encuentra En El Menu Informacion Grafica.☝",
-    autor: "Tips <b> Nuevo!!!</b> 📷",
+    autor: "Tips <b> Nuevo!!!</b> 📷 &#128246",
     imagen: "./images/ok.svg",
   },
   
