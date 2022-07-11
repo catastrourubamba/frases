@@ -14,6 +14,12 @@ const frases = [
     autor: "Tips <b>Nuevo!!!&#128077</b>",
     imagen: "./images/ok.svg",
   },
+      {
+    frase:
+      "No se olviden en los edificas las entradas se reinician.⚠️",
+    autor: "Tips <b>Nuevo!!!&#128077</b>",
+    imagen: "./images/ok.svg",
+  },
     {
     frase:
       "Poner el codigo de ficha en las fichas de bienes comunes y cotitular.⚠️",
